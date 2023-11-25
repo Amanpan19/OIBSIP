@@ -32,7 +32,6 @@ public class Online_Examination_System {
         if(!userExist){
             userList.add(addUser);
             System.out.println("Registered Successfully..!");
-            System.out.println(userList);
         }
 
     }
